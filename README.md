@@ -14,7 +14,8 @@ I'm alone, @dodoritfort, to develop that software but with the help of all the C
 # Support or Contact
 
 For all the problems that you may encounter, you can leave me a message on https://github.com/dodoritfort/Search-Files-Engine/issues.
-TODO
+
+# TODO
 
 * Review the design of the software.
 
