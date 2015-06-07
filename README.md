@@ -17,6 +17,7 @@ For all the problems that you may encounter, you can leave me a message on https
 
 # TODO
 
+* Improve the memory management.
 * Review the design of the software.
 
 # Last update
